@@ -1,4 +1,4 @@
-# Data-Fiesta-2021-
+# Data-Fiesta-2021
 This repo contains the files that we made in Data fiesta 2021 conducted by Polestar Solutions.
 
 
